@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Datasets](https://img.shields.io/badge/datasets-5-blue)
 <p align="center">
-  <img src="banner_pt.png" alt="Tableau Data Analysis Examples" width="100%">
+  <img src="banner_pt`v2.png" alt="Tableau Data Analysis Examples" width="100%">
 </p>
 ****
 # 📊 Tableau Data Analysis Examples
