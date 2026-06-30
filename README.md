@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_v2_pt.png" alt="Analise de Dados com Tableau" width="100%">
+  <img src="banner_pt_v2.png" alt="Analise de Dados com Tableau" width="100%">
 </p>
 
 <div align="center">
