@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="banner.png" alt="Tableau Data Analysis Examples" width="100%">
-</p>
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Datasets](https://img.shields.io/badge/datasets-5-blue)
-
+<p align="center">
+  <img src="banner.png" alt="Tableau Data Analysis Examples" width="100%">
+</p>
+****
 # 📊 Tableau Data Analysis Examples
 
 Repositório com exemplos práticos de análise de dados utilizando **Tableau Public/Tableau Desktop**, com datasets abertos e simulados baseados em cenários reais do Brasil.
